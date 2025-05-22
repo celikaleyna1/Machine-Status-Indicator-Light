@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "name": "myDevice",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
+
